@@ -1,4 +1,4 @@
 from app import add
 
 def test_add():
-    assert add(80, 50) == 130
+    assert add(40, 60) == 100
